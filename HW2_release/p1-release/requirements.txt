@@ -1,0 +1,6 @@
+zodb
+flask
+ecdsa
+matplotlib
+persistent
+
